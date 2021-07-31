@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Working with project
-1) write in terminal "npm run server" for running server on port 7000
-2) go to http://localhost:3000/ and make a query
-3) photos are taken from user's storage on Cloudinary
+1) Write in terminal "npm run server" for running server on port 7000
+2) Go to http://localhost:3000/ and make a query
+3) Photos are taken from user's storage on Cloudinary
 ## Available Scripts
 
 In the project directory, you can run:
