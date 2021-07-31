@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1) Write in terminal "npm run server" for running server on port 7000
 2) Go to http://localhost:3000/ and make a query
 3) Photos are taken from user's storage on Cloudinary
-Make your own .end file with your cloud name, api key&secret from Cloudinary
+Make your own .env file with your cloud name, api key&secret from Cloudinary
 ## Available Scripts
 
 In the project directory, you can run:
